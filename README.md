@@ -3,7 +3,7 @@ C++ Integration using Arduino IDE into Braccio robotic arm to pick up and place 
 
 Introduction 
 Purpose
-○ Control the Braccio Robotic arm using an Arduino Board. 
+○ Control the Braccio Robotic arm using an Arduino Board.   
 ○ Write C++ functions that control each arm joint. 
 ○ Understand how C++ programming applies to real robotics. 
 ○ Produce smooth, incremental arm movements. 
