@@ -60,7 +60,7 @@ Understanding individual vs. combined axis movement was critical. Trial and erro
 
 ---
 
-## 💻 Code and Functionality
+##  Code and Functionality
 
 ### Key Libraries
 ```cpp
