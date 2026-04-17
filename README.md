@@ -1,4 +1,4 @@
-# Braccio Robotic Arm Project (Part 2)
+# Braccio Robotic Arm Project
 
 ---
 
